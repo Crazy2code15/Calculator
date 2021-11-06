@@ -2,7 +2,7 @@
 <p align="center">
 This is a simple calculator built using HTML and CSS.
 </p>
-<h3 align="center"><em> Calculator View Image</em></h3>
+<h3 align="center"><em> Calculator View </em></h3>
 <img width="957" alt="calculator view" src="https://user-images.githubusercontent.com/63441963/140614604-257b9c8e-c8d8-403a-8992-a4e376b6c3d9.png">
 
 
